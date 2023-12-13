@@ -9,6 +9,9 @@ Você pode baixar um arquivo zip do repositório com todos os arquivos clicando 
 
 É muito importante que você continue estudando pela documentação abaixo. O conteúdo web é muito extenso, e possui muitas possibilidades!
 
+## Link para a avaliação sobre o conteúdo da videoaula
+[Forms - Avaliação](https://docs.google.com/forms/d/e/1FAIpQLSfGtZMycrCmY-EYoy_DkvE9sN9ycIjhHloXvJw44VL8lDbOow/viewform?pli=1)
+
 ## Links da documentação para estudo:
 - [W3Schools - HTML](https://www.w3schools.com/html/default.asp)
 - [W3Schools - CSS](https://www.w3schools.com/html/default.asp)
