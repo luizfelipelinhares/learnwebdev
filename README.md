@@ -1,7 +1,7 @@
 # Projeto Extensionista - Desenvolvimento Web
 
-## Repositório da videoaula do projeto extensionista - Introdução ao desenvolvimento Web
-Olá, seja bem vindo ao repositório da videoaula! 
+## Repositório da [videoaula do projeto extensionista Introdução ao desenvolvimento Web](https://youtu.be/s_Uvbij3d9M)! 
+Olá, seja bem vindo ao repositório da videoaula!
 Aqui você encontra os arquivos utilizados no vídeo, para que você possa utilizar como referência e comparação em seus estudos! 
  
 Recomendo que tente replicar as páginas, e que não tenha medo de fazer alterações nos códigos. Basta baixar o arquivo novamente quantas vezes quiser! 
