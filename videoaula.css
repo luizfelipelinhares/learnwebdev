@@ -1,0 +1,82 @@
+/*Formatação do Cabeçalho*/
+header{
+    width: 100%;
+    height: 50px;    
+    background-color: red;
+    justify-content: space-between;
+}
+
+header h1{
+    margin-left: 20px;
+}
+
+nav{
+    margin-right: 10px;
+    justify-content: space-evenly;
+    width: 300px;
+}
+
+/*Formatação do corpo do site*/
+main{
+    max-width: 1200px;
+    height: 100%;
+    background-color: gray;    
+    justify-content: space-between;
+}
+
+/*Formatação do menu lateral*/
+aside{
+    background-color: yellow;
+    width: 200px;
+    height: 750px;
+    margin: 40px;
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+
+/*Formatação da seção de conteúdos*/
+section{
+    background-color: green;
+    height: 750px;
+    width: 900px;
+    margin: 40px;
+    text-align: justify;    
+}
+
+img{
+    border: 1px solid red;
+}
+
+/*Formatação do rodapé*/
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    justify-content: center;
+}
+
+/*Formatação das Listas*/
+ol, ul{
+    list-style: none;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+/*Formatação dos links*/
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+/*Formatação dos botões*/
+.botao{
+    background-color: lightblue;
+    width: 80px;
+    height: 35px;
+    border: 2px solid white;
+    border-radius: 8px; 
+    margin-top: 8px;
+}
+
